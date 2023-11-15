@@ -1,0 +1,93 @@
+body{
+    background-color: #021633 !important;
+    padding-top: 7%;
+}
+.bar{
+    backdrop-filter: blur(15px);
+}
+
+.text a{
+    color: #f8f9fa;
+}
+/* .second{
+    background-color: #052c65;  
+} */
+.manny{
+    box-shadow: 40px -40px #044CBB;
+}
+.card1{
+    background-color: #ffffff28;
+}
+.view:hover{
+    color: white;
+   
+}
+.swiper {
+    width: 100%;
+    height: 100%;
+  }
+
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+  }
+.caro{
+    background-color: #021633ea;
+  }
+.mont{
+    background-color: rgba(255, 255, 255, 0.06);
+    width: 150px;
+   height: 125vh;
+  }
+  hr{
+    width: 100%;
+  }
+  .tom{
+   
+    width: 150px;
+   height: 125vh;
+  }
+  .sect{
+    height: 100vh;
+  }
+  .ment{
+    background-color: rgba(255, 255, 255, 0.06);
+  }
+  .mist{
+    font-size: 5px;
+  }
+  .messed button{
+    padding: 7px;
+    border: 1px solid white;
+
+  }
+  /* .carousel-control-prev{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 1000%;
+  }
+  .carousel-control-prev-icon{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+  } */
+  @media(max-width:767px){
+    /* .swiper-slide img {
+      display: block;
+      width: 100%;
+      height: 200px;
+      object-fit: cover;
+    } */
+  }
